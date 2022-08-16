@@ -1,3 +1,3 @@
-package mayflylog
+package log
 
 const A = 1
